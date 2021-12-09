@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.back {
+  background-color: white;
+  border-style: solid;
+}
+
+.backk {
+  flex-wrap: wrap;
+  margin: 5px;
+}
+.size {
+  width: 50px;
+  height: 40px;
+}
+.flex {
+  width: 85px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  padding: 4px;
+}

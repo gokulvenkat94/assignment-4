@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.back {
+  background-color: #0f172a;
+}
+
+.size {
+  width: 45px;
+  height: 80px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  color: white;
+  justify-content: center;
+  padding: 10px;
+}
+.backk {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png');
+  background-size: cover;
+}

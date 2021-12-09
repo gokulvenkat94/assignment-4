@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.back {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+.box {
+  width: 250px;
+  height: 500px;
+}
+
+.size {
+  text-align: center;
+  width: 50px;
+  height: 60px;
+}
